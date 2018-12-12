@@ -1,0 +1,172 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/koteswara/Documents/saibabaapp/android-music-player-master/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/koteswara/Documents/saibabaapp/android-music-player-master/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/koteswara/Documents/saibabaapp/android-music-player-master/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/koteswara/Documents/saibabaapp/android-music-player-master/app/src/main/AndroidManifest.xml:2:1-31:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/1978ead272a6ca381874d9323d5495c6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d6ca81628a8cb72e5dd39670ee909cc8/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/9a8ad42a64be608a4ca4c7ae14f4cc83/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/60a129dad89454b9714dbe50e2fbb1da/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/50a8a98ed7351eff6f4bef78e25600d5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/2789eb316281647e28a5358c3f93cf97/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/35de40b78365962a82a15467dc300c85/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/9a81bf1b4ff1c125f6e63367e1965e97/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/c04326c9a69b83d53fe82ea99526f997/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/b72a4b3bf4009e65c8e09515f8309c3e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/01d4ee2418abecc8f1e10a8549b7ff1e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/5101503ea0492594d11aab852511fbc5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/42289cefb7d28695169c4414b6504762/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/3af9a05f77805e738426d962ff78c630/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/2c68f5ece205d059fe19d53db95d0425/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/df30d50471d2099be3d41501d6a81aa4/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/37f838547b81e953f582462738ec7d80/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/101d1f26249b58c47633c303382a0de2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/71fb0bb7ade8091fdf069b5db0c49489/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/fd74227c3af3a6346d4b1c013199cf52/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/5fd52eea50f56932ea899a778cb9220d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/338bc1d14078c0ff92eea2a316e5788a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/a233cb2f85e98503d5bda7ddf9cf421e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/049f38ad66743b5d7e1e13a451ab32a9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d95d44968440ac68f87b5db0a636944f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d1b6f6b2c68b5348f916fc3c8c2e01e9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/b485dc9becf793e8ec0789750a5aab3c/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/koteswara/Documents/saibabaapp/android-music-player-master/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/koteswara/Documents/saibabaapp/android-music-player-master/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/koteswara/Documents/saibabaapp/android-music-player-master/app/src/main/AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from /Users/koteswara/Documents/saibabaapp/android-music-player-master/app/src/main/AndroidManifest.xml:3:2-35
+		INJECTED from /Users/koteswara/Documents/saibabaapp/android-music-player-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/koteswara/Documents/saibabaapp/android-music-player-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/koteswara/Documents/saibabaapp/android-music-player-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/koteswara/Documents/saibabaapp/android-music-player-master/app/src/main/AndroidManifest.xml:2:1-31:12
+		INJECTED from /Users/koteswara/Documents/saibabaapp/android-music-player-master/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/koteswara/Documents/saibabaapp/android-music-player-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/koteswara/Documents/saibabaapp/android-music-player-master/app/src/main/AndroidManifest.xml:2:1-31:12
+		INJECTED from /Users/koteswara/Documents/saibabaapp/android-music-player-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/koteswara/Documents/saibabaapp/android-music-player-master/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/koteswara/Documents/saibabaapp/android-music-player-master/app/src/main/AndroidManifest.xml:6:2-93
+	android:name
+		ADDED from /Users/koteswara/Documents/saibabaapp/android-music-player-master/app/src/main/AndroidManifest.xml:6:19-74
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/koteswara/Documents/saibabaapp/android-music-player-master/app/src/main/AndroidManifest.xml:7:2-65
+	android:name
+		ADDED from /Users/koteswara/Documents/saibabaapp/android-music-player-master/app/src/main/AndroidManifest.xml:7:19-62
+application
+ADDED from /Users/koteswara/Documents/saibabaapp/android-music-player-master/app/src/main/AndroidManifest.xml:9:2-29:16
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d6ca81628a8cb72e5dd39670ee909cc8/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d6ca81628a8cb72e5dd39670ee909cc8/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/df30d50471d2099be3d41501d6a81aa4/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/df30d50471d2099be3d41501d6a81aa4/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/37f838547b81e953f582462738ec7d80/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/37f838547b81e953f582462738ec7d80/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/df30d50471d2099be3d41501d6a81aa4/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/koteswara/Documents/saibabaapp/android-music-player-master/app/src/main/AndroidManifest.xml:12:3-35
+	android:icon
+		ADDED from /Users/koteswara/Documents/saibabaapp/android-music-player-master/app/src/main/AndroidManifest.xml:11:3-37
+	android:allowBackup
+		ADDED from /Users/koteswara/Documents/saibabaapp/android-music-player-master/app/src/main/AndroidManifest.xml:10:3-29
+	android:theme
+		ADDED from /Users/koteswara/Documents/saibabaapp/android-music-player-master/app/src/main/AndroidManifest.xml:13:3-34
+activity#com.example.musicplayer.MainActivity
+ADDED from /Users/koteswara/Documents/saibabaapp/android-music-player-master/app/src/main/AndroidManifest.xml:14:3-24:14
+	android:screenOrientation
+		ADDED from /Users/koteswara/Documents/saibabaapp/android-music-player-master/app/src/main/AndroidManifest.xml:18:4-40
+	android:label
+		ADDED from /Users/koteswara/Documents/saibabaapp/android-music-player-master/app/src/main/AndroidManifest.xml:16:4-36
+	android:launchMode
+		ADDED from /Users/koteswara/Documents/saibabaapp/android-music-player-master/app/src/main/AndroidManifest.xml:17:4-34
+	android:name
+		ADDED from /Users/koteswara/Documents/saibabaapp/android-music-player-master/app/src/main/AndroidManifest.xml:15:4-32
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/koteswara/Documents/saibabaapp/android-music-player-master/app/src/main/AndroidManifest.xml:19:4-23:20
+action#android.intent.action.MAIN
+ADDED from /Users/koteswara/Documents/saibabaapp/android-music-player-master/app/src/main/AndroidManifest.xml:20:5-57
+	android:name
+		ADDED from /Users/koteswara/Documents/saibabaapp/android-music-player-master/app/src/main/AndroidManifest.xml:20:13-54
+category#android.intent.category.LAUNCHER
+ADDED from /Users/koteswara/Documents/saibabaapp/android-music-player-master/app/src/main/AndroidManifest.xml:22:5-65
+	android:name
+		ADDED from /Users/koteswara/Documents/saibabaapp/android-music-player-master/app/src/main/AndroidManifest.xml:22:15-62
+service#com.example.musicplayer.MusicService
+ADDED from /Users/koteswara/Documents/saibabaapp/android-music-player-master/app/src/main/AndroidManifest.xml:26:3-28:29
+	android:enabled
+		ADDED from /Users/koteswara/Documents/saibabaapp/android-music-player-master/app/src/main/AndroidManifest.xml:27:4-26
+	android:exported
+		ADDED from /Users/koteswara/Documents/saibabaapp/android-music-player-master/app/src/main/AndroidManifest.xml:28:4-27
+	android:name
+		ADDED from /Users/koteswara/Documents/saibabaapp/android-music-player-master/app/src/main/AndroidManifest.xml:26:12-40
+uses-sdk
+INJECTED from /Users/koteswara/Documents/saibabaapp/android-music-player-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/koteswara/Documents/saibabaapp/android-music-player-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/koteswara/Documents/saibabaapp/android-music-player-master/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/1978ead272a6ca381874d9323d5495c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/1978ead272a6ca381874d9323d5495c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d6ca81628a8cb72e5dd39670ee909cc8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/d6ca81628a8cb72e5dd39670ee909cc8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/9a8ad42a64be608a4ca4c7ae14f4cc83/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/9a8ad42a64be608a4ca4c7ae14f4cc83/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/60a129dad89454b9714dbe50e2fbb1da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/60a129dad89454b9714dbe50e2fbb1da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/50a8a98ed7351eff6f4bef78e25600d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/50a8a98ed7351eff6f4bef78e25600d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/2789eb316281647e28a5358c3f93cf97/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/2789eb316281647e28a5358c3f93cf97/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/35de40b78365962a82a15467dc300c85/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/35de40b78365962a82a15467dc300c85/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/9a81bf1b4ff1c125f6e63367e1965e97/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/9a81bf1b4ff1c125f6e63367e1965e97/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/c04326c9a69b83d53fe82ea99526f997/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/c04326c9a69b83d53fe82ea99526f997/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/b72a4b3bf4009e65c8e09515f8309c3e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/b72a4b3bf4009e65c8e09515f8309c3e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/01d4ee2418abecc8f1e10a8549b7ff1e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/01d4ee2418abecc8f1e10a8549b7ff1e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/5101503ea0492594d11aab852511fbc5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/5101503ea0492594d11aab852511fbc5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/42289cefb7d28695169c4414b6504762/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/42289cefb7d28695169c4414b6504762/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/3af9a05f77805e738426d962ff78c630/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/3af9a05f77805e738426d962ff78c630/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/2c68f5ece205d059fe19d53db95d0425/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/2c68f5ece205d059fe19d53db95d0425/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/df30d50471d2099be3d41501d6a81aa4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/df30d50471d2099be3d41501d6a81aa4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/37f838547b81e953f582462738ec7d80/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/37f838547b81e953f582462738ec7d80/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/101d1f26249b58c47633c303382a0de2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/101d1f26249b58c47633c303382a0de2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/71fb0bb7ade8091fdf069b5db0c49489/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/71fb0bb7ade8091fdf069b5db0c49489/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/fd74227c3af3a6346d4b1c013199cf52/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/fd74227c3af3a6346d4b1c013199cf52/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/5fd52eea50f56932ea899a778cb9220d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/5fd52eea50f56932ea899a778cb9220d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/338bc1d14078c0ff92eea2a316e5788a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/338bc1d14078c0ff92eea2a316e5788a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/a233cb2f85e98503d5bda7ddf9cf421e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/a233cb2f85e98503d5bda7ddf9cf421e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/049f38ad66743b5d7e1e13a451ab32a9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/049f38ad66743b5d7e1e13a451ab32a9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d95d44968440ac68f87b5db0a636944f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d95d44968440ac68f87b5db0a636944f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d1b6f6b2c68b5348f916fc3c8c2e01e9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d1b6f6b2c68b5348f916fc3c8c2e01e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/b485dc9becf793e8ec0789750a5aab3c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/koteswara/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/b485dc9becf793e8ec0789750a5aab3c/AndroidManifest.xml:20:5-44
+INJECTED from /Users/koteswara/Documents/saibabaapp/android-music-player-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/koteswara/Documents/saibabaapp/android-music-player-master/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/koteswara/Documents/saibabaapp/android-music-player-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/koteswara/Documents/saibabaapp/android-music-player-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/koteswara/Documents/saibabaapp/android-music-player-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/koteswara/Documents/saibabaapp/android-music-player-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/koteswara/Documents/saibabaapp/android-music-player-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/koteswara/Documents/saibabaapp/android-music-player-master/app/src/main/AndroidManifest.xml
